@@ -9,3 +9,4 @@ This project focuses on authentication and authorization using Java Spring Boot.
 - Java Spring Boot
 - JWT
 - Spring Security
+- Spring web
